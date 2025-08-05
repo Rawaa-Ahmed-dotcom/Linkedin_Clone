@@ -9,7 +9,7 @@ const Middle = () => {
   )
 }
 const Container = styled.div`
-  grid-area : middle;
+  grid-area : main;
 `;
 
 export default Middle
